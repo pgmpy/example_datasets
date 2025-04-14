@@ -2,15 +2,15 @@
 addtemporal
 
 1  Rings Sex
-2  ShkW ShlW VisW
-3  WhW
+2  Shucked Shell Viscera
+3  Whole
 
 forbiddirect
 Diam Sex
-Len Sex
-Hei Sex
+Length Sex
+Height Sex
 Diam Rings
-Len Rings
-Hei Rings
+Length Rings
+Height Rings
 
 requiredirect
