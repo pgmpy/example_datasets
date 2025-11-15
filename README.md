@@ -1,3 +1,5 @@
+This is a fork of https://github.com/cmu-phil/example-causal-datasets. All credits for creating the dataset go to the original authors.
+
 # example-causal-datasets
 Example datasets formatted consistently with ground truth for purposes of causal analysis.
 Formating conventions are here:
