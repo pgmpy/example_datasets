@@ -1,24 +1,5 @@
-This is a fork of https://github.com/cmu-phil/example-causal-datasets. All credits for creating the dataset go to the original authors.
+This is a collection of example datasets from various sources that the `datasets` module in pgmpy supports. All credits
+for creating the datasets go to the original authors. The following datasets are included (along with their LICENCE).
+The LICENCES are included in the respective dataset folders as well.
 
-# example-causal-datasets
-Example datasets formatted consistently with ground truth for purposes of causal analysis.
-Formating conventions are here:
-
-https://github.com/cmu-phil/example-causal-datasets/blob/main/formatting.txt
-
-This is work in progress--please complain, especially if the ground truth isn't right or if 
-you know ground truth that isn't here. Also, if you can suggest further datasets to 
-format in a uniform way with ground truth, please do.
-
-Plot matrices were generated in R as follows (for example):
-
-library(psych)
-
-data2 <- read.table("[file path]/abalone.continuous.txt",sep="\t", header=TRUE)
-
-pairs.panels(data2,
-method = "pearson", # correlation method
-hist.col = "#00AFBB",
-density = TRUE,  # show density plots
-ellipses = TRUE # show correlation ellipses
-)
+1. [example-causal-datasets](https://github.com/cmu-phil/example-causal-datasets): CC0 1.0 Universal 
