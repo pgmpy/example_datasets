@@ -1,0 +1,33 @@
+dag{
+
+Anxiety
+Peer_Pressure
+Smoking
+Yellow_Fingers
+Genetics
+Attention_Disorder
+Born_an_Even_Day
+Allergy
+Coughing
+Fatigue
+Car_Accident
+Lung_Cancer [outcome]
+
+Anxiety -> Smoking
+Peer_Pressure -> Smoking
+
+Smoking -> Yellow_Fingers
+Smoking -> Lung_Cancer
+
+Genetics -> Lung_Cancer
+Genetics -> Attention_Disorder
+
+Allergy -> Coughing
+Lung_Cancer -> Coughing
+
+Lung_Cancer -> Fatigue
+Coughing -> Fatigue
+
+Fatigue -> Car_Accident
+Attention_Disorder -> Car_Accident
+}
