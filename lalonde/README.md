@@ -41,7 +41,7 @@ Each row represents an individual applicant from the job-training program.
 
 | Variable (Left to Right)| Description                                      | Type        |
 |--------------|--------------------------------------------------|------------|
-| training    | Training indicator (1 = train, 0 = control)  | Categorical     |
+| training    | Training indicator (1 = training, 0 = control)  | Categorical     |
 | age          | Age in years                                     | Discrete |
 | education    | Years of education                               | Discrete |
 | black        | 1 if Black, 0 otherwise                          | Categorical     |
@@ -65,6 +65,8 @@ Each row represents an individual applicant from the job-training program.
 | lalonde/psid              | [psid_controls.txt](psid_controls.txt)        | Non-experimental PSID comparison group           | 2,490               |
 | lalonde/psid2             | [psid2_controls.txt](psid2_controls.txt)         | Non-experimental PSID comparison group           | 253               |
 | lalonde/psid3             | [psid3_controls.txt](psid3_controls.txt)         | Non-experimental PSID comparison group           | 128               |
+
+NOTE: Only changes from the file done is to standardization based on data format in this repo. 
 
 ## References
 
