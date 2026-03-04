@@ -83,6 +83,8 @@ NOTE: Only changes from the file done is to standardization based on data format
 This dataset is distributed under the Creative Commons
 Attribution-NonCommercial 2.0 Generic (CC BY-NC 2.0) license.
 It is redistributed in this repository strictly for research and
-benchmarking purposes.
+benchmarking purposes. The only modifications made
+to the file are formatting changes.
+
 
 See the [LICENSE](LICENSE) file for the full license text.
