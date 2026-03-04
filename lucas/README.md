@@ -96,3 +96,12 @@ The variables from left to right are as follows (11 is the target variable):
 
 2. LUCAS Dataset Website:  
    [https://www.causality.inf.ethz.ch/data/LUCAS.html](https://www.causality.inf.ethz.ch/data/LUCAS.html)
+
+## License
+
+No explicit license information was provided by the original authors
+for the LUCAS0 dataset.
+
+This dataset is included here for research and benchmarking purposes
+with attribution to the original source. The only modifications made
+to the file are formatting changes.
