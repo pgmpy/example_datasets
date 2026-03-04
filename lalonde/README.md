@@ -77,3 +77,12 @@ NOTE: Only changes from the file done is to standardization based on data format
 3. Rajeev Dehejia and Sadek Wahba, "Propensity Score Matching Methods for Non-Experimental Causal Studies," Review of Economics and Statistics, Vol. 84, (February 2002), pp. 151-161.
 
 4. Robert Lalonde, "Evaluating the Econometric Evaluations of Training Programs," American Economic Review, Vol. 76 (1986), pp. 604-620. 
+
+## License
+
+This dataset is distributed under the Creative Commons
+Attribution-NonCommercial 2.0 Generic (CC BY-NC 2.0) license.
+It is redistributed in this repository strictly for research and
+benchmarking purposes.
+
+See the [LICENSE](LICENSE) file for the full license text.
