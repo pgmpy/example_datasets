@@ -57,14 +57,14 @@ Each row represents an individual applicant from the job-training program.
 
 | Dataset Name              | File Name                | Description                                      | Number of Samples |
 |---------------------------|--------------------------|--------------------------------------------------|-------------------|
-| lalonde/treated  | [nswre74_treated.txt](nswre74_treated.txt)    | Randomized treated group (Dehejia-Wahha Sample) | 185               |
-| lalonde/control  | [nswre74_control.txt](nswre74_control.txt)      | Randomized control group (Dehejia-Wahha Sample) | 260               |
-| lalonde/cps               | [cps_controls.txt](cps_controls.txt)          | Non-experimental CPS comparison group            | 15,992               |
-| lalonde/cps2              | [cps2_controls.txt](cps2_controls.txt)          | Non-experimental CPS comparison group            | 2,369               |
-| lalonde/cps3              | [cps3_controls.txt](cps3_controls.txt)         | Non-experimental CPS comparison group            | 429               |
-| lalonde/psid              | [psid_controls.txt](psid_controls.txt)        | Non-experimental PSID comparison group           | 2,490               |
-| lalonde/psid2             | [psid2_controls.txt](psid2_controls.txt)         | Non-experimental PSID comparison group           | 253               |
-| lalonde/psid3             | [psid3_controls.txt](psid3_controls.txt)         | Non-experimental PSID comparison group           | 128               |
+| lalonde/treated  | [nswre74_treated.txt](data/nswre74_treated.txt)    | Randomized treated group (Dehejia-Wahha Sample) | 185               |
+| lalonde/control  | [nswre74_control.txt](data/nswre74_control.txt)      | Randomized control group (Dehejia-Wahha Sample) | 260               |
+| lalonde/cps               | [cps_controls.txt](data/cps_controls.txt)          | Non-experimental CPS comparison group            | 15,992               |
+| lalonde/cps2              | [cps2_controls.txt](data/cps2_controls.txt)          | Non-experimental CPS comparison group            | 2,369               |
+| lalonde/cps3              | [cps3_controls.txt](data/cps3_controls.txt)         | Non-experimental CPS comparison group            | 429               |
+| lalonde/psid              | [psid_controls.txt](data/psid_controls.txt)        | Non-experimental PSID comparison group           | 2,490               |
+| lalonde/psid2             | [psid2_controls.txt](data/psid2_controls.txt)         | Non-experimental PSID comparison group           | 253               |
+| lalonde/psid3             | [psid3_controls.txt](data/psid3_controls.txt)         | Non-experimental PSID comparison group           | 128               |
 
 NOTE: Only changes from the file done is to standardization based on data format in this repo. 
 
