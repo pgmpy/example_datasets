@@ -1,0 +1,35 @@
+Twin Birth Dataset (1989–1991)
+
+Source:
+National Bureau of Economic Research (NBER)
+Linked Birth / Infant Death Data (Vital Statistics Data)
+
+Original data sources:
+http://www.nber.org/data/linked-birth-infant-death-data-vital-statistics-data.html
+
+Specific files used:
+http://www.nber.org/lbid/1989/linkco1989us_den.csv.zip
+http://www.nber.org/lbid/1990/linkco1990us_den.csv.zip
+http://www.nber.org/lbid/1991/linkco1991us_den.csv.zip
+
+Dataset Guide:
+http://www.nber.org/lbid/docs/LinkCO89Guide.pdf
+
+Reference:
+Almond, Douglas, Kenneth Y. Chay, and David S. Lee.
+"The Costs of Low Birth Weight."
+The Quarterly Journal of Economics, 120(3), 1031–1083, 2005.
+
+Description:
+This dataset contains information on twin births in the United States between
+1989 and 1991. The data includes covariates such as parental characteristics,
+health conditions, and birth outcomes for twin pairs.
+
+License / Usage:
+The original data is provided by the National Bureau of Economic Research (NBER).
+Users should follow the terms and conditions specified by NBER for the use of
+Linked Birth / Infant Death Data.
+
+This copy is distributed for research and educational purposes only.
+Users should cite the original data source and the reference paper when using
+the dataset in academic work.
