@@ -2,8 +2,7 @@ This is a collection of example datasets from various sources that the `datasets
 for creating the datasets go to the original authors. The following datasets are included (along with their LICENCE).
 The licences are included in the respective dataset folders as well.
 
-1. [example-causal-datasets](https://github.com/cmu-phil/example-causal-datasets): CC0 1.0 Universal. Last synced on
-   2026-02-05.
+1. [example-causal-datasets](https://github.com/cmu-phil/example-causal-datasets): CC0 1.0 Universal. Last synced on 2026-02-05.
 
 2. [News-dataset] (https://www.fredjo.com/): Last downloaded on 2026-03-11.
 
