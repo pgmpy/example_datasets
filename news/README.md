@@ -1,4 +1,4 @@
-The dataset is the `topic_doc_mean_n5000_k3477_seed_1.csv` downloaded from https://www.fredjo.com/ and is mentioned in the paper titled "Learning Representations for Counterfactual Inference" by Fredrik D. Johansson, Uri Shalit, and David Sontag.
+The dataset is the `topic_doc_mean_n5000_k3477_seed_1.csv` downloaded from https://www.fredjo.com/files/NEWS_csv.zip and is mentioned in the paper titled "Learning Representations for Counterfactual Inference" by Fredrik D. Johansson, Uri Shalit, and David Sontag.
 
 
 The variables are the following:
