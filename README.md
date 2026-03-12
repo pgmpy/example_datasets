@@ -3,9 +3,7 @@ for creating the datasets go to the original authors. The following datasets are
 The licences are included in the respective dataset folders as well.
 
 1. [example-causal-datasets](https://github.com/cmu-phil/example-causal-datasets): CC0 1.0 Universal. Last synced on 2026-02-05.
-
 2. [News-dataset] (https://www.fredjo.com/files/NEWS_csv.zip): Last downloaded on 2026-03-11.
-
 3. [Tuebingen-pair-wise-dataset](https://webdav.tuebingen.mpg.de/cause-effect/): Last downloaded on 2026-03-02.
 4. [nslm](https://github.com/grf-labs/grf/tree/master/experiments/acic18): CC0 1.0 Universal. Last downloaded on 2026-03-04.
 5. [Twins-datasets](http://www.nber.org/data/linked-birth-infant-death-data-vital-statistics-data.html)
