@@ -4,6 +4,7 @@ The licences are included in the respective dataset folders as well.
 
 1. [example-causal-datasets](https://github.com/cmu-phil/example-causal-datasets): CC0 1.0 Universal. Last synced on
    2026-02-05.
-2. [nslm](https://github.com/grf-labs/grf/tree/master/experiments/acic18): CC0 1.0 Universal. Last downloaded on 2026-03-04.
-3. [Tuebingen-pair-wise-dataset](https://webdav.tuebingen.mpg.de/cause-effect/): Last downloaded on 2026-03-02.
-4. [Twins-datasets](http://www.nber.org/data/linked-birth-infant-death-data-vital-statistics-data.html)
+2. [Tuebingen-pair-wise-dataset](https://webdav.tuebingen.mpg.de/cause-effect/): Last downloaded on 2026-03-02.
+3. [Twins-datasets](http://www.nber.org/data/linked-birth-infant-death-data-vital-statistics-data.html)
+4. [Lalonde-jobs-dataset](https://users.nber.org/~rdehejia/nswdata2.html): Last downloaded on 2026-03-03
+5. [nslm](https://github.com/grf-labs/grf/tree/master/experiments/acic18): CC0 1.0 Universal. Last downloaded on 2026-03-04.
