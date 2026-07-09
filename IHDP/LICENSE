@@ -1,0 +1,65 @@
+IHDP Benchmark Covariates — License and Provenance Notice
+
+This directory contains `ihdp_covariates.csv`, a covariate-only extract
+derived from the IHDP semi-synthetic benchmark data.
+
+Upstream sources and their licenses
+------------------------------------
+
+1. NPCI R package (vdorie/npci)
+   https://github.com/vdorie/npci
+   License: GPL (>= 2)
+   Role: Generated the 1000 IHDP benchmark replications from the original
+   IHDP trial covariates, using the response-surface design of Hill (2011).
+
+2. CEVAE repository (AMLab-Amsterdam/CEVAE)
+   https://github.com/AMLab-Amsterdam/CEVAE
+   License: No explicit license file in the repository (archived July 2020).
+   Role: Hosts the NPCI-generated replications as CSV files. The file
+   `ihdp_npci_1.csv` from this repository is fetched by `prep.py` at
+   extraction time. It is not redistributed in this repository.
+
+3. Original IHDP trial data
+   The underlying real covariates come from the Infant Health and
+   Development Program (IHDP), a randomized controlled trial. The
+   covariates were made available for research use through the benchmark
+   publications listed below.
+
+What this file contains
+-----------------------
+
+`ihdp_covariates.csv` contains only the 25 pre-treatment covariates and
+binary treatment indicator (747 rows × 26 columns). All outcome columns
+(`y_factual`, `y_cfactual`, `mu0`, `mu1`) have been removed — pgmpy's
+`IHDPDataset` simulator regenerates outcomes from these fixed covariates.
+
+The extraction script `prep.py` downloads `ihdp_npci_1.csv` from the
+CEVAE repository at runtime and produces `ihdp_covariates.csv`. The
+source file is not bundled here.
+
+Usage terms
+-----------
+
+The NPCI simulation code is released under GPL (>= 2). The CEVAE
+repository does not specify a license. The extracted covariates are
+included here for research and educational use consistent with the
+original benchmark's intended purpose.
+
+Users should:
+
+- Cite the original papers when using this dataset.
+- Respect any terms that may apply to the upstream repositories.
+- Note that this notice documents provenance and is not a substitute
+  for legal permission from the original data authors.
+
+Recommended citations
+---------------------
+
+- Hill, J. L. (2011). Bayesian Nonparametric Modeling for Causal
+  Inference. Journal of Computational and Graphical Statistics, 20(1),
+  217-240.
+- Louizos, C., Shalit, U., Mooij, J. M., Sontag, D., Zemel, R., &
+  Welling, M. (2017). Causal Effect Inference with Deep Latent-Variable
+  Models. NeurIPS.
+- Johansson, F., Shalit, U., & Sontag, D. (2016). Learning
+  Representations for Counterfactual Inference. ICML.
