@@ -1,3 +1,5 @@
+**This repo has been moved to hugging-face. Please visit: https://huggingface.co/datasets/pgmpy/example_datasets**
+
 This is a collection of example datasets from various sources that the `datasets` module in pgmpy supports. All credits
 for creating the datasets go to the original authors. The following datasets are included (along with their LICENCE).
 The licences are included in the respective dataset folders as well.
